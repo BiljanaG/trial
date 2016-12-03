@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 my first line - nothing
-=======
-
->>>>>>> 6115477b8bf6f53e2a45a2ad3ff26b5f9263364f
